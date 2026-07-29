@@ -4,8 +4,6 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta http-equiv="refresh" content="0; url=index.php">
-  <link rel="canonical" href="index.php">
 
   <title>Powersoft Communications Ltd</title>
   <meta content="Powersoft Communications Ltd" name="description">
